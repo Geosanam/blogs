@@ -1,1 +1,2 @@
-# blogs
+# Blogs
+Welcome to the blogs page
